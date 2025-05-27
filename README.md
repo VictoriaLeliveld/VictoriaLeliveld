@@ -1,5 +1,5 @@
 
-## Hi, I'm Victoria!
+# Hi, I'm Victoria!
 🎓 Computer Science & Psychology student & UX Design minor <br/>
 💻 I build projects to learn, grow, and gain experience <br/>
 🔍 I’m curious about human-computer interaction and how technology can enhance our lives <br/>
